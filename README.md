@@ -75,6 +75,7 @@ El curso tendrá evaluaciones prácticas, las cuales corresponderán a experienc
 * La Nota Final ( N<sub>F</sub> ) debe ser mayor o igual a 3,95 y se calcula:
   
      NF = 0,5 * E<sub>E</sub> + 0,15 * T + 0,35 * E<sub>P</sub>
+     
 En caso de no cumplir con lo anterior su nota de reprobación será N<sub>F</sub> = min(3,9 ; N<sub>F</sub>)
 
 ## Política de integridad académica
