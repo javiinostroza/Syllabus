@@ -27,7 +27,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 ### Jefe Tareas
 - José Manuel Wielandt - jmwielandt@uc.cl
 ### Jefe Cátedra
-- Emilio Roncagliolo - 
+- Emilio Roncagliolo - egroncag@uc.cl
 ### Ayudantes
 - Felipe Valenzuela - frvalenzuela@uc.cl
 - Raul del Río - rjdelrio@uc.cl
