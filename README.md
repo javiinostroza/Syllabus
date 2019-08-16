@@ -53,7 +53,7 @@ Todas las fechas fueron entregadas por la dirección de Pregrado de tal forma qu
 
 El curso tendrá evaluaciones **individuales** programadas, en distintos lenguajes, las que servirán de apoyo al contenido visto en clases.
 
-* Tarea 1: Miércoles 14 de Agosto -- Miércoles 28 de Agosto (21:00 horas)
+* Tarea 1: Jueves 15 de Agosto -- Jueves 29 de Agosto (21:00 horas)
 * Tarea 2: Miércoles 11 de Septiembre -- Miércoles 25 de Septiembre (21:00 horas)
 * Tarea 3: Miércoles 16 de Octubre -- Miércoles 30 de Octubre (21:00 horas)
 
