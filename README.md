@@ -71,6 +71,19 @@ El curso tendrá evaluaciones prácticas, las cuales corresponderán a experienc
 
 **Nota**: Las siguientes fechas serán avisadas cuando se publiquen los enunciados de estas.
 
+
+
+#### Recepción y entrega de placas
+
+La entrega de placas se hará durante la hora de ayudantía. 
+
+La recepción de placas por parte de los ayudantes se hará en la **sala Álvaro Campos**, 4o Piso San Agustín, Departamento de Computación, en los siguientes horarios:
+
+- Lunes 10:20 - 12:20
+- Viernes 14:00 a 15:20
+
+
+
 ### Exigencias
 
 * El promedio de Tareas debe ser mayor o igual a 2,95
