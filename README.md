@@ -77,12 +77,14 @@ El curso tendrá evaluaciones prácticas, las cuales corresponderán a experienc
 
 La entrega de placas se hará durante la hora de ayudantía. 
 
-La recepción de placas por parte de los ayudantes se hará en la **sala Álvaro Campos**, 4o Piso Edificio San Agustín, Departamento de Computación, en los siguientes horarios:
+La recepción previa de placas por parte de los ayudantes se hará en la **sala Álvaro Campos**, 4o Piso Edificio San Agustín, Departamento de Computación, en los siguientes horarios:
 
-- Lunes 10:20 - 12:20
-- Viernes 14:00 - 15:20
+- Lunes    10:20 - 12:20 hrs.
+- Viernes 14:00 - 15:20 hrs.
 
+La recepción de placas por parte de los ayudantes se hará en la **sala de ayudantía: A1** al inicio de la ayudantía
 
+- Lunes    17:00 - 17:30 hrs.  
 
 ### Exigencias
 

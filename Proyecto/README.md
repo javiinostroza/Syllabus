@@ -1,13 +1,32 @@
-# Entrega {x} de {inserte su nombre}
+# Experiencias Prácticas:
 
-## M�dulos
+El curso tendrá evaluaciones prácticas, las cuales corresponderán a experiencias realizadas tanto individual como grupalmente, por medio de las cuales deberán llegar a implementar un computador básico y realizar programas que funcionen sobre su computador.
 
-Describa brevemente los inputs y outputs de cada uno de sus m�dulos
+### Links Importantes
 
-## Circuito
+Notas y grupos **Proyecto**: https://docs.google.com/spreadsheets/d/1JBXcbtKA-jAr32fUIwfZezqzPaqhJdkUOsH7viyAVAE/edit?usp=sharing
 
-Debe entregar un diagrama circuital como imagen y adjuntado a este README. 
+### Entrega 1 
 
-Se recomienda usar la aplicaci�n [draw.io](https://www.draw.io/) (Debe agregar las shapes Electrical)
+- Grupo A: 19 de Agosto - 26 de Agosto
+- Grupo B: 26 de Agosto - 2 de Septiembre
+- Grupo C: 2 de Septiembre - 9 de Septiembre
+- Grupo D: 9 de Septiembre - 16 de Septiembre
+- Grupo E: 23 de Septiembre - 30 de Septiembre
 
-**La no entrega de este documento tendr� un descuento de 5 decimas de su nota.**
+**Nota**: Las siguientes fechas serán avisadas cuando se publiquen los enunciados de estas.
+
+
+
+## Recepción y entrega de placas
+
+La entrega de placas se hará durante la hora de ayudantía. 
+
+La recepción previa de placas por parte de los ayudantes se hará en la **sala Álvaro Campos**, 4o Piso Edificio San Agustín, Departamento de Computación, en los siguientes horarios:
+
+- Lunes    10:20 - 12:20 hrs.
+- Viernes 14:00 - 15:20 hrs.
+
+La recepción de placas por parte de los ayudantes se hará en la **sala de ayudantía: A1** al inicio de la ayudantía
+
+- Lunes    17:00 - 17:30 hrs.  
