@@ -1,4 +1,4 @@
-DATA:
+﻿DATA:
   // Variables locales para subrutina de multiplicación
   mult_a 0
   mult_b 0
@@ -18,7 +18,7 @@ CALL pow
 end: JMP end
 
 // Subrutina de potencia
-pow:               // Base A y Exponente en B, Retornar el resultado en A
+pow:               // Base A y Exponente en B, Retorna el resultado en A
   MOV (pow_b),A
   MOV (pow_e),B
   PUSH B
@@ -42,7 +42,7 @@ pow:               // Base A y Exponente en B, Retornar el resultado en A
   RET
 
 // Subrutina de multiplicación
-mult:              // Operandos en A y B, resultado en A
+mult:              // Operandos en A y B, Retorna el resultado en A
   MOV (mult_a),A
   MOV (mult_b),B
   PUSH B
