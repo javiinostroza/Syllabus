@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Sep 13 10:32:31 2019
+# Process ID: 7563
+# Current directory: /home/felipe/Documents/IIC2343 Arquitectura de Computadores/Syllabus
+# Command line: vivado
+# Log file: /home/felipe/Documents/IIC2343 Arquitectura de Computadores/Syllabus/vivado.log
+# Journal file: /home/felipe/Documents/IIC2343 Arquitectura de Computadores/Syllabus/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/felipe/Tutorial/Tutorial.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+wait_on_run synth_1
+launch_simulation
+launch_simulation
+launch_simulation
+source Archivo_simular_tb.tcl
+close_sim
