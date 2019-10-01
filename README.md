@@ -14,7 +14,9 @@ estos conocimientos y habilidades se requiere por una parte adquirir el conocimi
 lo que es un computador, pero también ser capaz de llevarlo a la práctica en las tareas.
 
 ## Links Importantes
-Grupos **Proyecto**: https://docs.google.com/spreadsheets/d/1JBXcbtKA-jAr32fUIwfZezqzPaqhJdkUOsH7viyAVAE/edit?usp=sharing
+<!-- LINK ANTIGUO -->
+<!-- https://docs.google.com/spreadsheets/d/1JBXcbtKA-jAr32fUIwfZezqzPaqhJdkUOsH7viyAVAE/edit?usp=sharing -->
+Grupos **Proyecto**: https://docs.google.com/spreadsheets/d/19IJk5XulRiQtkV4oDu7lw2to9ixYmK-a5X-7nfmoydk/edit?usp=sharing
 
 Solicitud de **Recorrección**: https://forms.gle/7WjKNvWu8E5Lj8mY8
 
