@@ -4,7 +4,11 @@ El curso tendrá evaluaciones prácticas, las cuales corresponderán a experienc
 
 ### Links Importantes
 
-Notas y grupos **Proyecto**: https://docs.google.com/spreadsheets/d/1JBXcbtKA-jAr32fUIwfZezqzPaqhJdkUOsH7viyAVAE/edit?usp=sharing
+Grupos **Proyecto**: https://docs.google.com/spreadsheets/d/19IJk5XulRiQtkV4oDu7lw2to9ixYmK-a5X-7nfmoydk/edit?usp=sharing
+
+Solicitud de **Recorrección**: https://forms.gle/7WjKNvWu8E5Lj8mY8
+
+Evaluación de Pares **Primera Semana:** https://forms.gle/AraXBZdfBLEZ9GS47
 
 ### Entrega 1 
 
@@ -14,7 +18,9 @@ Notas y grupos **Proyecto**: https://docs.google.com/spreadsheets/d/1JBXcbtKA-jA
 - Grupo D: 9 de Septiembre - 16 de Septiembre
 - Grupo E: 23 de Septiembre - 30 de Septiembre
 
-**Nota**: Las siguientes fechas serán avisadas cuando se publiquen los enunciados de estas.
+### Entrega 2
+
+30 de Septiembre - 14 de Octubre a las 10:59:59 hrs.
 
 
 

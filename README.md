@@ -20,6 +20,8 @@ Grupos **Proyecto**: https://docs.google.com/spreadsheets/d/19IJk5XulRiQtkV4oDu7
 
 Solicitud de **Recorrección**: https://forms.gle/7WjKNvWu8E5Lj8mY8
 
+Evaluación de Pares **Primera Semana:** https://forms.gle/AraXBZdfBLEZ9GS47
+
 ## Contacto:
 
 ### Profesor
